@@ -21,3 +21,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/demo2/microservice-consumer-movie-ribbon/.idea
+/demo2/microservice-consumer-movie-ribbon/target
+/demo2/microservice-consumer-movie-ribbon/microservice-provider-user.iml
