@@ -24,3 +24,9 @@ hs_err_pid*
 /demo2/microservice-consumer-movie-ribbon/.idea
 /demo2/microservice-consumer-movie-ribbon/target
 /demo2/microservice-consumer-movie-ribbon/microservice-provider-user.iml
+/demo1/microservice-provider-user/microservice-provider-user.iml
+/demo1/microservice-provider-user/.idea
+/demo1/microservice-provider-user/target
+/demo1/microservice-discovery-eureka/microservice-discovery-eureka.iml
+/demo1/microservice-discovery-eureka/.idea
+/demo1/microservice-discovery-eureka/target
